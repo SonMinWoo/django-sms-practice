@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+auth-server/tutorial/tutorial/__pycache__
+auth-server/tutorial/snippets/__pycache__
